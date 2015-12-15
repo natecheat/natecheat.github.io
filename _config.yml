@@ -6,8 +6,8 @@ url: "http://localhost:4000"
 
 paginate: 10
 
-{% include icon-github.html username="jglovier" %} /
+
 [jekyll-new](https://github.com/jglovier/jekyll-new)
 
-{% include icon-github.html username="jekyll" %} /
+
 [jekyll](https://github.com/jekyll/jekyll)
