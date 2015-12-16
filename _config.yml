@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-name: Alpha
-description: Alphs template for Jekyll
+name: Nathan's Portfolio
+description: My Portfolio
 baseurl: '/Alpha-Jekyll-Theme'
 
 url: "http://localhost:4000"
