@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nathan Cheatham&#39;s Journalism Portfolio</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>natecheat.github.io/</link>
-    <atom:link href="natecheat.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Dec 2015 18:55:58 -0500</pubDate>
-    <lastBuildDate>Tue, 15 Dec 2015 18:55:58 -0500</lastBuildDate>
+    <title></title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Dec 2015 18:59:21 -0500</pubDate>
+    <lastBuildDate>Tue, 15 Dec 2015 18:59:21 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -21,8 +20,8 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Aug 2014 00:00:00 -0400</pubDate>
-        <link>natecheat.github.io/2014/08/31/hello-word.html</link>
-        <guid isPermaLink="true">natecheat.github.io/2014/08/31/hello-word.html</guid>
+        <link>/2014/08/31/hello-word.html</link>
+        <guid isPermaLink="true">/2014/08/31/hello-word.html</guid>
         
         
       </item>
@@ -35,8 +34,8 @@
 &lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Aug 2014 00:00:00 -0400</pubDate>
-        <link>natecheat.github.io/2014/08/25/test-post.html</link>
-        <guid isPermaLink="true">natecheat.github.io/2014/08/25/test-post.html</guid>
+        <link>/2014/08/25/test-post.html</link>
+        <guid isPermaLink="true">/2014/08/25/test-post.html</guid>
         
         
       </item>
@@ -49,8 +48,8 @@
 &lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Aug 2014 00:00:00 -0400</pubDate>
-        <link>natecheat.github.io/2014/08/20/another-post.html</link>
-        <guid isPermaLink="true">natecheat.github.io/2014/08/20/another-post.html</guid>
+        <link>/2014/08/20/another-post.html</link>
+        <guid isPermaLink="true">/2014/08/20/another-post.html</guid>
         
         
       </item>
